@@ -1,5 +1,10 @@
 ## STARTER WEBSITE DEVELOPER
 
+Web Project :
+- Shop Website
+- Login/Register Page
+Game Project :
+- Soon
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
